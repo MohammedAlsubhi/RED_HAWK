@@ -45,10 +45,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + Scan For Everything - _The Old Lame Scanner_
 
 ---
-# Released Versions:
-    - Version 1.0.0 [11-06-2017]
-    - Version 1.1.0 [15-06-2017]
-    - Version 2.0.0 [11-08-2017]
+
 
 # Changelog:
 - Version 1.0.0
@@ -72,13 +69,6 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 # Installation:
 1. Run The Tool and Type `fix` This will Install All Required Modules.
 2. For The Bloggers View To Work Properly you have to configure RED HAWK with moz.com's api keys for that follow the following steps:
-
-**How To Configure RED HAWK with moz.com for Bloggers View Scan**
-+ Create an account in moz follow this link : https://moz.com/community/join
-+ After successful account creation and completing the verification you need to generate the API Keys
-+ You can get your API Keys here: https://moz.com/products/mozscape/access
-+ Get your AccessID and SecretKey and replace the `$accessID` and `$secretKey` variable's value in the `config.php` file
-+ All set, now you can enjoy the bloggers view.
 
 # Usage:
 - git clone `https://github.com/MohammedAlsubhi/RED_HAWK.git
