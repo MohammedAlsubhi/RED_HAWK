@@ -71,7 +71,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 2. For The Bloggers View To Work Properly you have to configure RED HAWK with moz.com's api keys for that follow the following steps:
 
 # Usage:
-- git clone `https://github.com/MohammedAlsubhi/RED_HAWK.git
+- git clone https://github.com/MohammedAlsubhi/RED_HAWK.git
 - cd RED_HAWK
 - php rhawk.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
