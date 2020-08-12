@@ -547,7 +547,7 @@ askscan:
                     $vuln_json = readcontents("https://wpvulndb.com/api/v2/wordpresses/" . $wp_version);
                     if (strpos($vuln_json, "The page you were looking for doesn't exist (404)") !== false)
                       {
-                        echo $red . "[!] Seems like the version detection messed up preety bad! Please report here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new\n";
+                        echo $red . "[!] Seems like the version detection messed up preety bad! Please report here: https://github.com/MohammedAlsubhi/RED_HAWK.git/issues/new\n";
                       }
                     else
                       {
